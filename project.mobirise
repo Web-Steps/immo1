@@ -98,7 +98,7 @@
       "themeColor": "#bd9800"
     },
     "chatbutton": {},
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
